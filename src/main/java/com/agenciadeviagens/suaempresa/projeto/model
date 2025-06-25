@@ -1,0 +1,15 @@
+// User.java
+package com.suaempresa.seuprojeto.model;
+import javax.persistence.*;
+import java.util.Set;
+@Entity
+public class User {
+    // Campos e métodos
+}
+// Role.java
+package com.suaempresa.seuprojeto.model;
+import javax.persistence.*;
+@Entity
+public class Role {
+    // Campos e métodos
+}
